@@ -1,0 +1,10 @@
+{
+  "name": "yt-auto-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^119.0.0",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}
